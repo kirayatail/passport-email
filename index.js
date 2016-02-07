@@ -16,8 +16,8 @@ Strategy.protoype.authenticate = function(req) {
   var token;
   if((req.body && !req.body.token) || !req.params.token) {
     return this.fail({
-      message: 'No valid token';
-    })
+      message: 'No valid token'
+    });
   }
 
   if(req.body && req.body.token) {
