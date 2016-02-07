@@ -1,5 +1,5 @@
 {
-  "name": "passport-email",
+  "name": "passport-email-strategy",
   "version": "1.0.0",
   "description": "Passport plugin for signing in with a token sent to the user via email",
   "main": "index.js",
