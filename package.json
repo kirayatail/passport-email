@@ -1,6 +1,6 @@
 {
   "name": "passport-email-strategy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Passport plugin for signing in with a token sent to the user via email",
   "main": "index.js",
   "scripts": {
